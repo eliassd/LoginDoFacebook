@@ -1,0 +1,28 @@
+header{
+    background-color: rgb(53, 80, 138);
+    color: white;
+}
+
+#login{
+    background-color: rgb(62, 96, 168);
+}
+
+#login:hover{
+    background-color: rgb(92, 117, 172);
+}
+
+#termo{
+    font-size: 10px;
+}
+
+#cadastrar{
+    background-color: rgb(39, 122, 39);
+}
+
+#pagina{
+    font-size: 13px;
+}
+
+#back{
+    background-image: linear-gradient(to bottom, white, rgb(174, 193, 214));
+}
